@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name: WooCommerce Checkout Password Protection
+ * Plugin Name: KISS Woo Checkout Password Protection
  * Plugin URI: https://github.com/your-repo/wc-checkout-password-protection
  * Description: Password-protects the WooCommerce checkout page on specified URLs (dev/staging environments). Uses a URL whitelist approach - if the current site URL doesn't match any defined URLs, no password is required (safe for production).
  * Version: 1.0.0
- * Author: Your Name
- * Author URI: https://yoursite.com
+ * Author: KISS Plugins
+ * Author URI: https://github.com/kissplugins/KISS-woo-checkout-password
  * License: GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain: wc-checkout-password-protection
